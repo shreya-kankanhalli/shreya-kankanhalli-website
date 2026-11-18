@@ -1,0 +1,120 @@
+{
+  "bio": {
+    "lead": "I am an assistant professor of marketing at the Samuel Curtis Johnson Graduate School of Management within the Cornell SC Johnson College of Business.",
+    "research": "I investigate firm strategies and consumer behavior in developing economies, often using large-scale randomized field experiments in partnership with policymakers (e.g. World Bank) and private-sector stakeholders (e.g. Mastercard Center for Inclusive Growth). My current work focuses on retail modernization, financial inclusion, entrepreneurship, and market access.",
+    "education": "I graduated from Stanford University with a PhD in quantitative marketing in 2021. I hold a BA (with honors) and MSc (with distinction) in economics from Cambridge University and the London School of Economics, respectively."
+  },
+  "publications": [
+    {
+      "title": "Driving Merchant Adoption of Digital Payment Solutions Through Customer Success Management",
+      "url": "https://doi.org/10.1287/mnsc.2024.04703",
+      "status": "Management Science, 2026",
+      "authors": "with Stephen J. Anderson, Leonardo Iacovone, and Sridhar Narayanan",
+      "links": [
+        {"label": "Paper", "url": "https://doi.org/10.1287/mnsc.2024.04703"},
+        {"label": "Cornell Chronicle", "url": "https://news.cornell.edu/stories/2026/06/onboarding-support-helps-merchants-adopt-digital-payment-methods"},
+        {"label": "Stanford Business", "url": "https://www.gsb.stanford.edu/insights/small-retailers-need-more-tech-adopt-digital-payments"}
+      ],
+      "abstract": "Despite their potential to advance financial inclusion and improve business outcomes, digital payment solutions have low adoption rates among retail merchants in developing economies. Prior interventions have tackled prepurchase frictions such as awareness and affordability, showing limited success. We instead examine postpurchase frictions in the merchant onboarding journey, focusing on installation complexity and value uncertainty. We implement a randomized field experiment with 479 cash-only retailers in Mexico, testing interventions modeled on customer success management, a marketing function widely used by business-to-business technology companies to onboard and retain clients, but not previously examined causally. In the first treatment group, we tackle installation complexity by introducing a customer success manager to support system integration for a provided digital payment solution. In the second treatment group, we further tackle value uncertainty by adding a second customer success manager to support value realization. Relative to the control group, long-term adoption increased by 21.4 percentage points in the first treatment and by an additional 13.4 points in the second. Mechanism evidence shows that system integration primarily operates on the extensive margin of ensuring a functioning device in-store and substitutes for missing digital capacity. By contrast, value realization operates on the intensive margin of usage and complements existing digital capacity. Cost-benefit and spillover analyses support the scalability of our interventions."
+    },
+    {
+      "title": "Modernizing Retailers in an Emerging Market: Investigating Externally Focused and Internally Focused Approaches",
+      "url": "https://doi.org/10.1177/00222437211058437",
+      "status": "Journal of Marketing Research, 2022",
+      "authors": "with Stephen J. Anderson, Leonardo Iacovone, and Sridhar Narayanan",
+      "links": [
+        {"label": "Paper", "url": "https://doi.org/10.1177/00222437211058437"},
+        {"label": "VoxDevLit", "url": "https://voxdev.org/voxdevlit/training-entrepreneurs"},
+        {"label": "Stanford Business", "url": "https://www.gsb.stanford.edu/insights/upgrades-can-help-mom-pop-stores-compete-big-retail"}
+      ],
+      "abstract": "This article studies the impact of business modernization on the sales performance of traditional retailers in an emerging market. We define modernization as the adoption of physical structures and tangible practices of organized retail chains, such as exterior signage with store name and logo or a database to record product-level information. We implement a randomized field experiment in Mexico City with 1,148 retailers. The sample is randomized as follows: 385 firms are externally modernized in ways that are visible to customers, 383 firms are internally modernized in ways that are not visible to customers, and 380 firms form a control group. We find a significant and persistent main effect of modernization on sales. Firms in both treatment groups increase monthly sales by 15% to 19% 24 months after study recruitment. Externally modernized firms improve their store-level branding, while internally modernized firms strengthen their product management. Exploratory analysis suggests that it is most useful to modernize a firm's exterior appearance, customer engagement methods, demand analysis, and stock-ordering processes."
+    },
+    {
+      "title": "The Economic and Social Impacts of Migration on Brand Expenditure: Evidence from Rural India",
+      "url": "https://doi.org/10.1177/00222429211021992",
+      "status": "Journal of Marketing, 2021",
+      "authors": "with Vishal Narayan",
+      "links": [
+        {"label": "Paper", "url": "https://doi.org/10.1177/00222429211021992"}
+      ],
+      "abstract": "Households that send members to work away from home often receive information about lifestyles and consumption behaviors in those migration destinations, or social remittances, along with money or goods, or economic remittances. We investigate the effect of having a migrant household member on household brand expenditures in rural India, a market characterized by substantial consumption of unbranded products. We collect and analyze household-level survey data from 434 households across 30 villages using an instrumental variable strategy. Economic remittances result in greater brand expenditure, and this level is higher for poorer households. After controlling for economic remittances, the effect of migration on brand expenditures is more positive for households in more populous villages, with greater access to mobile phones, lower television viewership, and less recently departed migrants. We show how marketing resource allocation across villages can be improved by incorporating migration data and provide insights for household targeting in door-to-door selling. The results are robust to alternative public-policy-based instruments and generalize to expenditure on private schools. Using additional survey data from 300 households in 62 new villages, we replicate the results by comparing within-household brand expenditures before and after migration."
+    }
+  ],
+  "working_papers": [
+    {
+      "title": "Defensive Specialization: Theory and Evidence from Mexico's Retail Sector",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5433935",
+      "status": "Major revision at Marketing Science",
+      "authors": "with Tommaso Bondi, Luís Cabral, and Miguel Ángel Talamas",
+      "links": [
+        {"label": "Paper", "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5433935"}
+      ],
+      "abstract": "Large companies are increasingly dominating the retail industry, casting doubt on the future of traditional retail. What product strategy should local stores follow to attenuate this negative impact? We show that, in response to increasing penetration of large chain stores, independent retailers, especially smaller ones, optimally follow a strategy of defensive specialization. The arrival of large stores hurts all independent local stores, but it especially hurts general stores selling multiple categories. Our empirical evidence, built on two large retail datasets from Mexico, confirms the predictions of the theoretical model: specialty stores are better able to cope with the shock of large-chain entry. Moreover, the entry of a large chain induces a shift toward greater specialization in the traditional retail sector, both through an increase in the number and market share of specialty stores and through changes in product offerings within stores."
+    },
+    {
+      "title": "The Price Penalty for Migrant Entrepreneurs: Field Evidence from South Africa",
+      "url": "https://drive.google.com/file/d/1Z_-ue-2-XYi88CYsV7VZixmf3mjhRxVi/view?usp=sharing",
+      "status": "Working paper",
+      "authors": "with Rupali Kaul and Iris Steenkamp",
+      "links": [
+        {"label": "Paper", "url": "https://drive.google.com/file/d/1Z_-ue-2-XYi88CYsV7VZixmf3mjhRxVi/view?usp=sharing"}
+      ],
+      "abstract": "Migrants own and operate a substantial share of retail firms worldwide. This paper examines whether consumer attitudes toward migration reach markets and shape how migrant-owned firms operate. We combine an original census of small-scale grocery retailers in Johannesburg, South Africa, with an incentivized discrete choice experiment among consumers in the same market. Migrant-owned stores charge lower prices than locally-owned stores for identical branded products, despite similar input costs, better product condition and higher store quality, and no geographic or customer segregation. The gap persists under granular location and firm age controls, lowering profits on audited products. We investigate whether demand penalties explain this gap using our experiment in which respondents make purchase choices among store-product profiles with randomly varied owner nationalities, prices, and brands. Willingness to pay is substantially lower for migrant-owned than for locally-owned stores. To separate taste-based aversion from statistical discrimination, we randomize an information treatment disclosing store quality attributes; the penalty narrows modestly. Consistent with taste-based aversion, the residual penalty increases with anti-migrant attitudes but not with stated quality beliefs or product perishability. The demand- and supply-side data show consistency: migrant-local price gaps widen in neighborhoods with stronger experimentally measured consumer penalties. Consumer attitudes toward migrants thus shape local retail markets, with implications for migrants' integration in host economies."
+    },
+    {
+      "title": "Can Strategic Targeting Make Business Support Work for Female Entrepreneurs?",
+      "url": "https://documents1.worldbank.org/curated/en/099433303022642851/pdf/IDU-b3a03b08-9aff-482b-8a6b-4317a14d2caa.pdf",
+      "status": "World Bank Policy Research Working Paper",
+      "authors": "with Nandini Ramani, Arti Grover, and Stephen J. Anderson",
+      "links": [
+        {"label": "Paper", "url": "https://documents1.worldbank.org/curated/en/099433303022642851/pdf/IDU-b3a03b08-9aff-482b-8a6b-4317a14d2caa.pdf"}
+      ],
+      "abstract": "This paper formalizes and documents a persistent “gender program gap” where female entrepreneurs derive null or lower returns from business support programs (e.g., business training, consulting, and coaching programs) compared to male entrepreneurs across markets and programs. We develop a conceptual framework to identify constraints underlying the gender program gap and introduce a new targeting tool, the Program Readiness Scorecard (PRS), to tackle this gender program gap. We combine data from three randomized controlled trials in Uganda, Mexico, and South Africa to show that targeting offers of business support programs to female entrepreneurs with top-quartile PRS scores ensures these entrepreneurs achieve robust profit and sales gains from programs on par with average male entrepreneurs in the same sectors, while lower-PRS women experience no gains. This targeting approach can be implemented via a short screening survey and outperforms machine-learning-based targeting methods. Finally, we discuss a roadmap for remedial interventions to help more female entrepreneurs become “program-ready” and realize stronger returns from business support programs."
+    },
+    {
+      "title": "Promoting Digital Payment Systems to Retailers: The Long-Term Consequences",
+      "url": "",
+      "status": "Draft available upon request",
+      "authors": "with Stephen J. Anderson, Leonardo Iacovone, and Sridhar Narayanan",
+      "links": [],
+      "abstract": "Despite considerable global investment in programs to incentivize digital payment adoption among small retail merchants, rigorous evidence on program returns remains sparse. We conduct a large-scale randomized evaluation of payment digitization policy programs, co-designed with government and private-sector partners, that offer technology grants, B2C marketing support, and extra financial incentives to small retail merchants in Guadalajara, Mexico. Two years post-intervention, we find significant improvements in sales and profits across treatment groups. Mechanism analyses show that performance gains stem from three channels: an upgraded customer base, including more lucrative segments; increased working capital from reduced diversions and better access to formal banking; and spillovers to usage of other digital tools for customer outreach. Our findings underscore how well-designed payment digitization programs can yield substantial performance gains for small retailers, informing ongoing debates on how best to accelerate payment digitization in developing economies."
+    }
+  ],
+  "work_in_progress": [
+    {
+      "title": "Building Trust in Credit Markets through Digital Interventions: A Field Experiment with Female Entrepreneurs in Kenya",
+      "authors": "with Stephen J. Anderson, Apurva Borar, and Arti Grover",
+      "status": "Field experiment in progress · Nairobi, Kenya",
+      "partners": "Partners: IFC/World Bank, Bill & Melinda Gates Foundation, and Innovations for Poverty Action"
+    },
+    {
+      "title": "Overcoming Barriers to New Product Adoption in Nanostores: The Role of Supplier Interventions",
+      "authors": "with Rafael Escamilla, Karen Donohue, and Qilong Zhu",
+      "status": "Field experiment in progress · Mexico",
+      "partners": ""
+    },
+    {
+      "title": "Financial Infidelity Across Cultures",
+      "authors": "with Hanieh Naeimi and Emily N. Garbinsky",
+      "status": "",
+      "partners": ""
+    }
+  ],
+  "teaching": [
+    {
+      "institution": "Cornell University",
+      "courses": [
+        "NBA 6240: Strategic Product and Marketing Immersion (SPMI)",
+        "NBA 6045: Innovation and New Product Management"
+      ],
+      "honor": "Johnson Teaching Honor Roll, 2025–2026"
+    },
+    {
+      "institution": "Penn State University",
+      "courses": [
+        "MKTG 450W: Marketing Strategy"
+      ],
+      "honor": ""
+    }
+  ]
+}
